@@ -21,4 +21,4 @@ Bu uygulama tamamen statik HTML, CSS ve JavaScript'ten oluşur. Node.js veya her
 ### Yerel Ortamda Çalıştırma
 1. Bu depoyu bilgisayarınıza indirin veya klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadiniz/ses-asistani-ai.git
+   git clone https://github.com/kmlsmsk/sesanaliz.git
