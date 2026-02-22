@@ -22,3 +22,14 @@ Bu uygulama tamamen statik HTML, CSS ve JavaScript'ten oluşur. Node.js veya her
 1. Bu depoyu bilgisayarınıza indirin veya klonlayın:
    ```bash
    git clone https://github.com/kmlsmsk/sesanaliz.git
+
+
+## 📁 Dosya Yapısı
+
+Projenin sorunsuz çalışması için herhangi bir sunucu veya Node.js kurulumuna gerek yoktur. Temel dosya yapısı şu şekildedir:
+
+```text
+📂 proje-klasoru/
+├── 📄 index.html      # Ana web sayfası (Uygulamanın çalışacağı iskelet yapı)
+├── 📄 app.js          # Tüm ses işleme, Gemini API ve dinamik arayüz mantığı
+└── 📄 README.md       # Proje dokümantasyonu (Bu dosya)
